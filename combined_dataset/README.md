@@ -1,1 +1,1 @@
-# combined dataset of the face shapes, classifies manually
+### Combined dataset of the face shapes, classified manually
